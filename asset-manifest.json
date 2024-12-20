@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ReactQrcode/static/css/main.e6c13ad2.css",
-    "main.js": "/ReactQrcode/static/js/main.2047e8e1.js",
+    "main.js": "/ReactQrcode/static/js/main.4986a45d.js",
     "index.html": "/ReactQrcode/index.html",
     "main.e6c13ad2.css.map": "/ReactQrcode/static/css/main.e6c13ad2.css.map",
-    "main.2047e8e1.js.map": "/ReactQrcode/static/js/main.2047e8e1.js.map"
+    "main.4986a45d.js.map": "/ReactQrcode/static/js/main.4986a45d.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.2047e8e1.js"
+    "static/js/main.4986a45d.js"
   ]
 }
